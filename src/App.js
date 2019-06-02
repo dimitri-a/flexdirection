@@ -3,8 +3,8 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="flex-container">
-      <ul className="">
+    <div className="">
+      <ul className="flex-container">
         <li className="flex-item">1</li>
         <li className="flex-item">2</li>
         <li className="flex-item">3</li>
