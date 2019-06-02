@@ -1,11 +1,9 @@
 .flex-container {
   display: flex;
   flex-direction: row; /*display items as vertically stacked*/
+  justify-content:flex-end;
 }
 
-.flex-start {
-  justify-content: space-around;
-}
 
 .flex-item {
   font-size: 18pt;
